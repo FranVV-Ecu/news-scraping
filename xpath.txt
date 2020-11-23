@@ -1,0 +1,7 @@
+url = https://www.larepublica.co/
+
+Links = //h2/a/@href
+Title = //div[@class="mb-auto"]/h2/a/text()
+Summary = //div[@class="lead"]/p/text()
+Author = //div[@class="autorArticle"]/p/text()
+Body = //div[@class="html-content"]/p/text()
